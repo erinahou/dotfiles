@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = erina.hou@gmail.com
+	name = Erina Ho
